@@ -44,7 +44,7 @@ All operations are performed through a menu-driven console application.
     4️. Exit
     Terminates the application gracefully.
 
-## Tech Stack
+### Tech Stack
 - Java (Core Java)
 - File Handling (FileWriter, FileReader, BufferedReader, PrintWriter)
 - Exception Handling & I/O Streams
