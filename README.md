@@ -46,4 +46,10 @@ All operations are performed through a menu-driven console application.
 
 ### Output Screenshots
 
-    <img width="783" height="556" alt="image" src="https://github.com/user-attachments/assets/a0fe903f-1c07-4ac5-aaf6-a4001beb5d1c" />
+<img width="783" height="556" alt="image" src="https://github.com/user-attachments/assets/1541560d-ac74-427d-a870-e0e1155b3509" />
+
+<img width="689" height="567" alt="image" src="https://github.com/user-attachments/assets/eab58d5c-222d-499d-b40d-9dd660d8143f" />
+
+<img width="556" height="293" alt="image" src="https://github.com/user-attachments/assets/1a2c95a3-549e-4150-b6d4-e8f5e0681c66" />
+
+
