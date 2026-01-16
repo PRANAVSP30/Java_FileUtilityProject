@@ -44,6 +44,14 @@ All operations are performed through a menu-driven console application.
     4️. Exit
     Terminates the application gracefully.
 
+## Tech Stack
+- Java (Core Java)
+- File Handling (FileWriter, FileReader, BufferedReader, PrintWriter)
+- Exception Handling & I/O Streams
+- Menu-driven console application
+- Tools: VS Code, Java JDK 25, Git & GitHub
+
+
 ### Output Screenshots
 
 <img width="783" height="556" alt="image" src="https://github.com/user-attachments/assets/1541560d-ac74-427d-a870-e0e1155b3509" />
